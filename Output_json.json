@@ -1,0 +1,27 @@
+[
+    {
+        "Id": "1",
+        "Name": "Seeta",
+        "TotalConcession": "30"
+    },
+    {
+        "Id": "2",
+        "Name": "Maala",
+        "TotalConcession": "20"
+    },
+    {
+        "Id": "3",
+        "Name": "Ram",
+        "TotalConcession": "30"
+    },
+    {
+        "Id": "4",
+        "Name": "Ajay",
+        "TotalConcession": "60"
+    },
+    {
+        "Id": "5",
+        "Name": "Nayak",
+        "TotalConcession": "50"
+    }
+]
